@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Victor Madaraka a Software Developer
-- 👀 I’m interested in Fullstack softwware development using Django, React and Next js I love Machine learning and Deep learning
-- 🌱 I’m currently learning redux, FastAPI
+- 👀 I’m interested in Fullstack softwware development using Django, React and Next js 
+- Redux
+- 🌱 I’m currently learning Docker, kubernetes
 - 💞️ I’m looking to collaborate on web and deep learning projects
 - 📫 How to reach me 
   -   victormadaraka@gmail.com
