@@ -6,7 +6,7 @@
 - 📫 How to reach me 
   -   victormadaraka@gmail.com
   -   +254742415221
-  -   https://victor-madaraka.vercel.app/
+  -   https://madaraka.vercel.app/
   -   https://www.linkedin.com/victormadaraka
 
 <!---
